@@ -21,4 +21,3 @@ Kullanıcı bilgisayara karşı oynar ve sonuç anında ekranda gösterilir.
 
 ---
 
-## 📂 Proje Yapısı
